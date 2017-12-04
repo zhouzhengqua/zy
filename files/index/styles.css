@@ -562,8 +562,11 @@
   -moz-box-shadow:2px -2px 5px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:2px -2px 5px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:2px -2px 5px rgba(0, 0, 0, 0.349019607843137);
+  font-family:'造字工房尚黑 G0v1 常规体 常规体', '造字工房尚黑 G0v1 常规体';
+  font-weight:400;
+  font-style:normal;
   font-size:9px;
-  text-align:left;
+  color:#40220F;
 }
 #u40 {
   position:absolute;
@@ -572,8 +575,11 @@
   width:156px;
   height:92px;
   opacity:0.6;
+  font-family:'造字工房尚黑 G0v1 常规体 常规体', '造字工房尚黑 G0v1 常规体';
+  font-weight:400;
+  font-style:normal;
   font-size:9px;
-  text-align:left;
+  color:#40220F;
 }
 #u41 {
   position:absolute;
@@ -604,7 +610,7 @@
 }
 #u42 {
   position:absolute;
-  left:54px;
+  left:53px;
   top:490px;
   width:137px;
   height:70px;
